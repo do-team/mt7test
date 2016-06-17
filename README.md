@@ -2,6 +2,4 @@
 
 A barebones Java app, which can easily be deployed to Heroku.
 
-CI TEST
-222
-333
+Final deployment shall be seen here: http://m7autodeploy.herokuapp.com
