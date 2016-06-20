@@ -11,7 +11,7 @@
 <div class="jumbotron text-center">
   <div class="container">
     <a href="/" class="lang-logo">
-      <img src="/Rubik_cube.png">
+      <img src="/animrubik.gif">
     </a>
     <h1>MT7 TEST deployed, including Java build!</h1>
     <h2><a href="https://github.com/do-team/mt7test/">Source</a></h2>
